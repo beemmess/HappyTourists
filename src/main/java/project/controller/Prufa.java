@@ -7,4 +7,5 @@ import project.service.PostitNoteService;
  */
 public class Prufa {
     PostitNoteService postitNoteService;
+    public int lalallalala;
 }
